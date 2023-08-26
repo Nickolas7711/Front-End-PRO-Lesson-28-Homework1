@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    background-color: white;
+    
+}
+
+.user-item {
+    background-image: url('../images/fon.avif');
+    background-size: cover;
+    width: 700px;
+    margin: 20px auto;
+    padding: 20px 50px;
+    border: solid 3px blue;
+    border-radius: 20px;
+}
+
+img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+p {
+    font-size: 20px;
+}
