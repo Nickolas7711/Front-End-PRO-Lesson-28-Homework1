@@ -20,7 +20,7 @@ const users = [
         birthday: '24-8-1988',
     },
     {
-        avatar: '../images/1531642647150.jpg',
+        avatar: './images/1531642647150.jpg',
         id: 3,
         name: 'Dimas',
         age: 39,
@@ -30,14 +30,24 @@ const users = [
         birthday: '01-01-1984',
     },
     {
-        avatar: '../images/women.jpeg',
+        avatar: './images/Marinella.jpg',
         id: 4,
         name: 'Marinella',
         age: 40,
         email: 'maritime@gmail.com',
         country: 'UA',
         company: 'RTI-BM',
-        birthday: '24-8-1982',
+        birthday: '23-12-1982',
+    },
+    {
+        avatar: './images/Romashka.jpg',
+        id: 5,
+        name: 'Romashka',
+        age: 17,
+        email: 'RomashkaSenior@gmail.com',
+        country: 'UA',
+        company: 'RTI-BM',
+        birthday: '08-04-2006',
     }
 ];
 
